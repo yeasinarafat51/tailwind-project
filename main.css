@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities{
+    .caption{
+        @apply bg-black text-white text-xs uppercase px-1.5 py-0.5 rounded-sm;
+    }
+}
