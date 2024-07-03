@@ -6,4 +6,7 @@
     .caption{
         @apply bg-black text-white text-xs uppercase px-1.5 py-0.5 rounded-sm;
     }
+    .tag{
+        @apply text-[#000000] bg-[#5677AC26] md:text-sm text-xs font-medium md:px-2 px-1.5 ;
+    }
 }
