@@ -7,7 +7,7 @@
         @apply bg-black text-white text-xs uppercase px-1.5 py-0.5 rounded-sm;
     }
     .tag{
-        @apply text-[#000000] bg-[#5677AC26] md:text-sm text-xs font-medium md:px-2 px-1.5 ;
+        @apply text-[#000000] bg-[#5677AC26] md:text-sm text-xs font-medium md:px-2 px-1.5 dark:text-white ;
     }
     .pera{
         @apply text-[#333333] bg-[#E6EBF3] text-base md:text-lg font-semibold py-1 text-center my-2 rounded-full;
